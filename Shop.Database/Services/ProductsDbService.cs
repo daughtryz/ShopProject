@@ -18,7 +18,7 @@ namespace Shop.Database.Services
             this.db = new ApplicationDbContext();
         }
 
-        public IEnumerable<Product> GetAllProducts()
+        public IQueryable<Product> GetAllProducts()
         {
             return this.db.Products;
         }

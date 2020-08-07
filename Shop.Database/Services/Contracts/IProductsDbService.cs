@@ -9,6 +9,6 @@ namespace Shop.Database.Services.Contracts
 {
     public interface IProductsDbService
     {
-         IEnumerable<Product> GetAllProducts();
+         IQueryable<Product> GetAllProducts();
     }
 }
