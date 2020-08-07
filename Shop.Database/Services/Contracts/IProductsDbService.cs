@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Shop.Data.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Shop.Database.Services.Contracts
 {
-    class IProductsDbService
+    public interface IProductsDbService
     {
+         IEnumerable<Product> GetAllProducts();
     }
 }

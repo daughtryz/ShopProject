@@ -79,3 +79,6 @@ C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\ShopProject\obj\Debug\Sho
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\ShopProject\obj\Debug\ShopProject.csproj.CopyComplete
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\ShopProject\obj\Debug\ShopProject.exe
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\ShopProject\obj\Debug\ShopProject.pdb
+C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\ShopProject\bin\Debug\Shop.Database.dll
+C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\ShopProject\bin\Debug\Shop.Database.pdb
+C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\ShopProject\bin\Debug\Shop.Database.dll.config

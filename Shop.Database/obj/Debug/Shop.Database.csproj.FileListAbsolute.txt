@@ -1,4 +1,3 @@
-C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\obj\Debug\Shop.Database.csprojAssemblyReference.cache
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\obj\Debug\Shop.Database.csproj.CoreCompileInputs.cache
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\Shop.Database.dll.config
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\Shop.Database.dll
@@ -23,7 +22,6 @@ C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\M
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\Microsoft.Extensions.Options.dll
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\Microsoft.Extensions.Primitives.dll
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\Microsoft.Identity.Client.dll
-C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\ShopProject.exe
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\System.Buffers.dll
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\System.Collections.Immutable.dll
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\System.ComponentModel.Annotations.dll
@@ -32,8 +30,6 @@ C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\S
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\ShopProject.pdb
-C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\ShopProject.exe.config
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\Microsoft.Bcl.HashCode.xml
 C:\Users\dimitar.iliev\Desktop\ShopProject\ShopProject\Shop.Database\bin\Debug\Microsoft.Data.SqlClient.pdb
