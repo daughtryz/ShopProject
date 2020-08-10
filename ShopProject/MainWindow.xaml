@@ -4,9 +4,28 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ShopProject"
+        xmlns:vm="clr-namespace:ShopProject.ViewModels"
+        xmlns:vw="clr-namespace:ShopProject.Views"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <vm:MainViewModel />
+    </Window.DataContext>
+    
+    <!--<Window.Resources>
+        <DataTemplate DataType="{x:Type vm:ProductListViewModel}">
+            <vw:ProductListView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:ProductMenuViewModel}">
+            <vw:ProductMenuView />
+        </DataTemplate>
+
+        
+    </Window.Resources>-->
+    
     <Grid>
+        
         <Grid.RowDefinitions>
             <RowDefinition/>
         </Grid.RowDefinitions>
@@ -17,8 +36,25 @@
             <ColumnDefinition />
         </Grid.ColumnDefinitions>
 
-        <TextBlock Grid.Row="0" Grid.Column="1">Test1</TextBlock>
 
-        <TextBlock Grid.Row="0" Grid.Column="2">Test2</TextBlock>
+        
+        <ListBox Grid.Row="0" Grid.Column="0" Width="400" Margin="10"
+         ItemsSource="{Binding ProductMenuViewModel.Menu}">
+            
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    
+                    <WrapPanel Width="80" Height="80" Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path=Name}" />
+                        <TextBlock Text="{Binding Path=Price}" />
+                        <Image Source="{Binding Path=ImageUrl}" Width="70" Height="150"/>
+                        
+                    </WrapPanel>
+                </DataTemplate>
+                
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        
     </Grid>
 </Window>

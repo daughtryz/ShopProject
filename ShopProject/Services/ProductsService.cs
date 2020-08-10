@@ -19,17 +19,27 @@ namespace ShopProject.Services
         {
             this.db = new ProductsDbService();
         }
-        public IEnumerable<ProductViewModel> GetAll()
+        public IEnumerable<ProductListViewModel> GetAll()
         {
-            return this.db.GetAllProducts().Select(x => new ProductViewModel
+            return this.db.GetAllProducts().Select(x => new ProductListViewModel
             {
                 Name = x.Name,
                 Price = x.Price,
                 Quantity = x.Quantity,
+                
+            }).ToList();
+        }
+
+        public IEnumerable<ProductMenuViewModel> GetMenu()
+        {
+            return this.db.GetAllProducts().Select(x => new ProductMenuViewModel
+            {
+                Name = x.Name,
+                Price = x.Price,
                 ImageUrl = x.ImageUrl
             }).ToList();
         }
 
-        
+
     }
 }

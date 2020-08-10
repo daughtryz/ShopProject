@@ -10,6 +10,8 @@ namespace ShopProject.Services.Contracts
 {
     public interface IProductsService
     {
-        IEnumerable<ProductViewModel> GetAll();
+        IEnumerable<ProductListViewModel> GetAll();
+
+        IEnumerable<ProductMenuViewModel> GetMenu();
     }
 }

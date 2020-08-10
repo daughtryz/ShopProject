@@ -149,6 +149,10 @@
     <Compile Include="Migrations\20200807091800_UpPrice.designer.cs">
       <DependentUpon>20200807091800_UpPrice.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20200809093452_ChangeDb.cs" />
+    <Compile Include="Migrations\20200809093452_ChangeDb.designer.cs">
+      <DependentUpon>20200809093452_ChangeDb.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\ApplicationDbContextModelSnapshot.cs" />
     <Compile Include="Models\Payment.cs" />
     <Compile Include="Models\Product.cs" />
