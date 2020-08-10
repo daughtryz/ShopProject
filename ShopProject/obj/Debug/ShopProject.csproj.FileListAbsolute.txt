@@ -1,5 +1,6 @@
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\bin\Debug\ShopProject.exe.config
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\bin\Debug\ShopProject.exe
+C:\Users\user\Desktop\Shop\ShopProject\ShopProject\bin\Debug\ShopProject.pdb
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\bin\Debug\Microsoft.Bcl.HashCode.dll
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\bin\Debug\Microsoft.Data.SqlClient.dll
@@ -88,6 +89,8 @@ C:\Users\user\Desktop\Shop\ShopProject\ShopProject\bin\Debug\zh-Hans\Microsoft.D
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\ShopProject.csprojAssemblyReference.cache
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\AdminPanelView.g.cs
+C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\LoginView.g.cs
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\ProductListView.g.cs
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\ProductMenuView.g.cs
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\TestView.g.cs
@@ -96,6 +99,8 @@ C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\GeneratedInternalTy
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\ShopProject_MarkupCompile.cache
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\ShopProject_MarkupCompile.lref
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\AdminPanelView.baml
+C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\LoginView.baml
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\ProductListView.baml
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\ProductMenuView.baml
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\obj\Debug\Views\TestView.baml

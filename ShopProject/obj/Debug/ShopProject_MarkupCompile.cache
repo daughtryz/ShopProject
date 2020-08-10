@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\user\Desktop\Shop\ShopProject\ShopProject\App.xaml
-4969679160
+6-967487153
 
-17542036914
+211459893851
 58-1699891092
-MainWindow.xaml;Views\ProductListView.xaml;Views\ProductMenuView.xaml;Views\TestView.xaml;
+MainWindow.xaml;Views\AdminPanelView.xaml;Views\LoginView.xaml;Views\ProductListView.xaml;Views\ProductMenuView.xaml;Views\TestView.xaml;
 
 False
 
